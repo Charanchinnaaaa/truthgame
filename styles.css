@@ -1,0 +1,105 @@
+.container-fluid{
+    background-color: #C8F2EF;
+    height:600px;
+}
+.hey{
+    width:300px;
+    height:300px;
+    position:relative;
+    padding-top: 8%;
+}
+.intro{
+    color: #3498db;
+}
+h1{
+    font-family: 'Patrick hand',serif;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 17px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  a{
+      color:white;
+  }
+  #game{
+      background-color:#FFE162;
+      height:600px;
+      width:100%;
+      
+  }
+  .playerName{
+      margin-top: 0%;
+
+      color:red;
+      padding-top: 15%;
+      padding-bottom: 3%;
+
+  }
+  h2{
+    font-family: 'Patrick hand',serif;
+    padding-bottom: 3%;
+  }
+  .h2edit{
+      color:blue;
+      font-size: 4rem;
+  }
+.reveal{
+    background: #ff0000;
+    background-image: -webkit-linear-gradient(top, #ff0000, #ff0000);
+    background-image: -moz-linear-gradient(top, #ff0000, #ff0000);
+    background-image: -ms-linear-gradient(top, #ff0000, #ff0000);
+    background-image: -o-linear-gradient(top, #ff0000, #ff0000);
+    background-image: linear-gradient(to bottom, #ff0000, #ff0000);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;  
+}
+h3{
+    font-family:'Patrick hand',serif; 
+}
+.question{
+    color:red;
+}
+.revealQuestion{
+    background: #d10000;
+    background-image: -webkit-linear-gradient(top, #d10000, #ed0000);
+    background-image: -moz-linear-gradient(top, #d10000, #ed0000);
+    background-image: -ms-linear-gradient(top, #d10000, #ed0000);
+    background-image: -o-linear-gradient(top, #d10000, #ed0000);
+    background-image: linear-gradient(to bottom, #d10000, #ed0000);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
